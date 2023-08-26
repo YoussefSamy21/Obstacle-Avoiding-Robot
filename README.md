@@ -21,4 +21,6 @@ Obstacle Avoiding Robot using Microcontroller ATMega32
 2. Timer0 ==> (Fast PWM mode), for Controlling Speed of Robot when Turning
 3. Timer1 ==> (Fast PWM OCRA Top Mode), for Servo Motor and Ultrasonic Sensor
 
+![IMG_20230826_234131](https://github.com/YoussefSamy21/Obstacle-Avoiding-Robot/assets/139294056/e2da6c0c-d736-4ad8-8fa3-9af759398be5)
 
+![IMG_20230826_233758](https://github.com/YoussefSamy21/Obstacle-Avoiding-Robot/assets/139294056/2154e09d-8196-4296-b653-2ed9c1db1004)
