@@ -1,7 +1,8 @@
 # **Obstacle Avoiding Robot**
 
-Obstacle Avoiding Robot using Microcontroller ATMega32
+Obstacle Avoiding Robot using Microcontroller ATMega32.
 
+[Robot Video](https://drive.google.com/file/d/16mwLHFCEgm4rhXkOf4UuaTX-FSmlrePR/view?usp=sharing)
 
 ## About The Robot
 - The Robot starts moving forward randomly, once detecting an obstacle the Robot stops.
